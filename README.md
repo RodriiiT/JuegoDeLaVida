@@ -1,22 +1,25 @@
-# JuegoDeLaVida
- Repositorio para la materia Estructuras Discretas II - Tema: Automatas Celulares
+# Juego de la Vida
 
- Realizado por: Rodrigo Torres 
+Repositorio creado para la materia **Estructuras Discretas II** - Tema de **Autómatas Celulares**.
 
- Este repositorio incluye un notebook acerca el Juego de la Vida y toca temas como: 
- - ¿Qué es el Juego de la Vida?
- - Reglas
- - Historia
- - Aplicaciones
- - Ejemplos de patrones
+### Realizado por: Rodrigo Torres 
 
-Además se agrega un pequeño código en el cual se crea un juego de la vida aleatorio.
+Este repositorio incluye un *notebook* detallado sobre el **Juego de la Vida**, que abarca los siguientes temas:
+- **¿Qué es el Juego de la Vida?**
+- **Reglas**
+- **Historia**
+- **Aplicaciones**
+- **Ejemplos de patrones**
 
-En el notebook podrá visualizar los resultados del Juego de la Vida pero si desea ejecutar el código deberá de tener instalado Python y posteriormente seguir los siguientes pasos: 
+Además, se incluye un fragmento de código que genera un juego de la vida aleatorio.
 
-<ol>
-<li>Instalar Numpy</li>
-<code>pip install numpy</code>
-<li>Instalar Matplotlib</li>
-<code>pip install matplotlib<code>
-</ol>
+En el *notebook* podrá visualizar los resultados del Juego de la Vida. Si desea ejecutar el código, deberá tener instalado Python y seguir estos pasos:
+
+1. Instalar **NumPy**:
+    ```bash
+    pip install numpy
+    ```
+2. Instalar **Matplotlib**:
+    ```bash
+    pip install matplotlib
+    ```
