@@ -1,8 +1,8 @@
 # Juego de la Vida
 
-Repositorio creado para la materia **Estructuras Discretas II** - Tema de **Autómatas Celulares**.
+Repositorio creado para la materia **Estructuras Discretas II Sección 306C1** - Tema de **Autómatas Celulares**.
 
-### Realizado por: Rodrigo Torres 
+### Realizado por: Rodrigo Torres
 
 Este repositorio incluye un *notebook* detallado sobre el **Juego de la Vida**, que abarca los siguientes temas:
 - **¿Qué es el Juego de la Vida?**
